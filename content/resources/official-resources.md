@@ -30,3 +30,4 @@ meta:
 - [Release Notes](https://github.com/vuejs/vue/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
+- [Vue.js Jobs](https://jooble.org/jobs-java-developer/)
