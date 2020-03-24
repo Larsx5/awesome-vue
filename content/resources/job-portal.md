@@ -27,3 +27,4 @@ meta:
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 - [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
 - [Prokarman Resume Builder](https://prokarman.com/) - A Free Resume Builder for crafting resumes for your dream job
+- [Vue.js Jobs - VueJobs](https://jooble.org/jobs-java-developer/) - Java developer Jobs with Jooble
